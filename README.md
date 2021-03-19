@@ -20,7 +20,7 @@ ESP32 dan juga konfigurasi Server, Port, dan ID pada PHP. Jangan lupa juga untuk
 
 ## Kerjasama
 
-Jika ingin bekerja sama dan menyumbang ide sekaligus belajar bersama mongoo chat [`saya`](https://api.whatsapp.com/send?phone=6282245090113)
+Jika ingin bekerja sama dan menyumbang ide sekaligus belajar bersama monggo chat [`saya`](https://api.whatsapp.com/send?phone=6282245090113)
 
 #### Jadilah orang yang berakhlak mulia, cerdas, dan kompetitif. MAJU BERSAMA HEBAT SEMUA..
 
