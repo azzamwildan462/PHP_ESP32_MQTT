@@ -1,7 +1,7 @@
 # **Maret 2021**
 
 Saya memulai untuk mencoba menggabungkan PHP, ESP32, dan dengan menggunakan protokol MQTT dalam sebuah jaringan lokal. Lebih lengkapnya
-bisa lihat di [`Blog saya`](http://vellstar.epizy.com/Vellstar/Apps/konten.php?konten=Misc&&materi=IOT%20dengan%20esp32,%20PHP,%20Protokol%20MQTT%201) Sorry Hosting Gratis gan hehe :)
+bisa lihat di [`Blog saya`](http://vellstar.epizy.com/Apps/konten.php?konten=Misc&&materi=IOT%20dengan%20esp32,%20PHP,%20Protokol%20MQTT%201) Sorry Hosting Gratis gan hehe :)
 
 Untuk Library PHP_MQTT saya dapat dari
 http://github.com/bluerhinos/phpMQTT
@@ -17,5 +17,11 @@ maka instalasi Library telah berhasil
 
 Jangan lupa untuk mengganti konfigurasi SSID, PW, IP, dan Port pada
 ESP32 dan juga konfigurasi Server, Port, dan ID pada PHP. Jangan lupa juga untuk mengahapus library 'Arduino.h' pada ESP32 (Jika anda menggunakan Arduino IDE)
+
+##Kerjasama
+
+Jika ingin bekerja sama dan menyumbang ide sekaligus belajar bersama mongoo chat [`saya`](https://api.whatsapp.com/send?phone=6282245090113)
+
+#### Jadilah orang yang berakhlak mulia, cerdan, dan kompetitif. MAJU BERSAMA HEBAT SEMUA..
 
 # Terimakasih telah berkunjung :)
