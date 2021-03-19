@@ -18,10 +18,9 @@ maka instalasi Library telah berhasil
 Jangan lupa untuk mengganti konfigurasi SSID, PW, IP, dan Port pada
 ESP32 dan juga konfigurasi Server, Port, dan ID pada PHP. Jangan lupa juga untuk mengahapus library 'Arduino.h' pada ESP32 (Jika anda menggunakan Arduino IDE)
 
-##Kerjasama
+## Kerjasama
 
 Jika ingin bekerja sama dan menyumbang ide sekaligus belajar bersama mongoo chat [`saya`](https://api.whatsapp.com/send?phone=6282245090113)
 
-#### Jadilah orang yang berakhlak mulia, cerdan, dan kompetitif. MAJU BERSAMA HEBAT SEMUA..
+#### Jadilah orang yang berakhlak mulia, cerdas, dan kompetitif. MAJU BERSAMA HEBAT SEMUA..
 
-# Terimakasih telah berkunjung :)
