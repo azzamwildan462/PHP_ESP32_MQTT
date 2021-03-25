@@ -6,12 +6,17 @@ bisa lihat di [`Blog saya`](http://vellstar.epizy.com/Apps/konten.php?konten=Mis
 Untuk Library PHP_MQTT saya dapat dari
 http://github.com/bluerhinos/phpMQTT
 
-## Instal Library menggunakan Composer pada [`/phpmqtt2`](https://github.com/azzamwildan462/PHP_ESP32_MQTT/tree/main/phpmqtt2)
+## Instalasi Library PHP-MQTT menggunakan Composer pada [`/phpmqtt2`](https://github.com/azzamwildan462/PHP_ESP32_MQTT/tree/main/phpmqtt2)
+
+Ketikkan pada Terminal: 
 
 `composer require bluerhinos/phpmqtt=@dev`
 
 Jika di dalam folder [`/phpmqtt2`](https://github.com/azzamwildan462/PHP_ESP32_MQTT/tree/main/phpmqtt2) sudah terdapat folder 'vendor'
 maka instalasi Library telah berhasil
+
+## Instalasi Library 'PubSubClient' untuk ESP32 
+Jika menggunakan platformIO, klik gambar lebah 'platformIO icon' lalu klik 'LIbraries' tinggal cari 'PubSubClient' lalu klik 'add to project'
 
 ## Penggunaan
 
