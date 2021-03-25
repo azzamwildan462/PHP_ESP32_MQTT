@@ -1,4 +1,4 @@
-Don't forget to download and install 'PubSubClient' Library on your project \n
+Don't forget to download and install 'PubSubClient' Library on your project ||
 Jangan lupa untuk install library 'SubPubClient' pada proyek
 
 ## Instalasi 
